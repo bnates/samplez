@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://bnates.github.io/rta/",
+  "homepage": "https://bnates.github.io/samplez/",
   "dependencies": {
     "enzyme": "latest",
     "enzyme-adapter-react-16": "1.15.2",
